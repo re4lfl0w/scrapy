@@ -8,8 +8,7 @@ install:
 - "./.travis-workarounds.sh"
 - pip install -U tox
 - pip install coveralls
-script
-- tox
+script: tox
 #- coverage run tox
 notifications:
   irc:
