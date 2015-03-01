@@ -12,6 +12,10 @@ Scrapy
     :target: https://pypi.python.org/pypi/Scrapy/
     :alt: Wheel Status
 
+.. image:: https://coveralls.io/repos/re4lfl0w/scrapy/badge.svg
+  :target: https://coveralls.io/r/re4lfl0w/scrapy
+
+
 Overview
 ========
 
