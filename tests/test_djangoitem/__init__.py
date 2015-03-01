@@ -100,4 +100,4 @@ class DjangoItemTest(unittest.TestCase):
     def test_default_field_values(self):
         i = BasePersonItem()
         person = i.save(commit=False)
-        self.assertEqual(person.name, 'Robot')
+        self.assertEqual(person.name, 'Robot1')
